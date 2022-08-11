@@ -1,1 +1,1 @@
-console.log(Bitch)
+console.log(first)
